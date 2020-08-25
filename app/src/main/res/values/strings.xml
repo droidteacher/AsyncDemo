@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncDemo</string>
+    <string name="app_state_started">Application started</string>
+    <string name="app_state_task_started">Waiting for the task to be done</string>
+    <string name="app_state_task_done">Task finished</string>
+    <string name="start_task">Start task</string>
+</resources>
